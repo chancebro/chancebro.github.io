@@ -224,18 +224,6 @@ Present
 
 ---
 
-
-
-## Languages
-
-{% for language in cv.languages %}
-
-- **{{ language.language }}:** {{ language.fluency }}
-
-{% endfor %}
-
----
-
 ## Research Vision
 
 My long-term research goal is to develop privacy-preserving
