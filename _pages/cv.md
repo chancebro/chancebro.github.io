@@ -203,26 +203,7 @@ Present
 
 
 
-## Selected Research Projects
 
-{% for project in cv.portfolio %}
-
-### {{ project.name }}
-
-**{{ project.category }}**  
-{{ project.date }}
-
-{% if project.description and project.description != "" %}
-{{ project.description }}
-{% endif %}
-
-{% if project.url and project.url != "" %}
-[Project Link]({{ project.url }}){: .btn .btn--small }
-{% endif %}
-
-{% endfor %}
-
----
 
 ## Research Vision
 
