@@ -4,8 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-stablecoin-regulation
 date: 2026-01-01
-venue: "Accepted"
-citation: "Chanhyeong Cho et al."
+venue: "KIPS Transactions on Computer and Communication Systems"
+status: "accepted"
+citation: "Chanhyeong Cho, Ji Young Chun, Geontae Noh, and Ik Rae Jeong"
 ---
 
 This study compares major global stablecoin regulatory frameworks
