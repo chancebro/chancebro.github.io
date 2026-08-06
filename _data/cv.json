@@ -270,15 +270,7 @@
       "description": "Oral presentation by Chanhyeong Cho, Byeori Kim, Haehyun Cho, and Taek-Young Youn."
     }
   ],
-  "teaching": [
-    {
-      "course": "Cryptographic Protocols",
-      "institution": "Korea University",
-      "date": "2026",
-      "role": "Teaching Assistant",
-      "description": "Assisted with course administration, examination preparation, student announcements, grading, and review of cryptographic security definitions and protocol constructions."
-    }
-  ],
+ 
   "portfolio": [
     {
       "name": "Accountable Anonymous Offline Electronic Cash",
@@ -324,6 +316,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "Excellence Award, 10th Cryptanalysis Competition",
+      "date": "2024-10-10",
+      "awarder": "777th Command, Republic of Korea Army",
+      "summary": "Received the Excellence Award as a team member in the 10th Cryptanalysis Competition held in 2024 for the advancement of defense cryptographic technology. Team: 원형적사고 (박수진, 김선규, 조찬형, 김원)."
+    }
     {
       "title": "Special Award, 2023 National Cryptography Competition",
       "date": "2023-10",
