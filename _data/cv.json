@@ -45,8 +45,7 @@
         "Studying BBS+ signatures, ElGamal encryption, anonymous credentials, zero-knowledge proofs, accumulators, and revocation mechanisms.",
         "Conducting formal security analysis and implementation-oriented performance evaluation.",
         "Investigating privacy-preserving authentication for robots, autonomous agents, and Industrial Internet of Things environments.",
-        "Exploring the protection of visual, audio, biometric, location, and contextual information collected by Physical AI systems.",
-        "Studying cryptographically constrained accountability for compromised or malicious autonomous devices."
+        "Exploring the protection of visual information collected by Physical AI systems.",
       ]
     },
     {
