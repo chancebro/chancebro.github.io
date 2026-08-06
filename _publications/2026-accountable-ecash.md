@@ -4,7 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-accountable-ecash
 date: 2026-01-01
-venue: "Under Review"
+venue: ""
+status: "under-review"
 citation: "Chanhyeong Cho, Jae Hyun Choi, and Ik Rae Jeong"
 ---
 
