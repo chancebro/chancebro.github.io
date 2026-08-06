@@ -43,7 +43,6 @@ financial systems and safe human–robot coexistence.
 ## Research Interests
 
 - Privacy-Enhancing Technologies
-- Accountable Anonymity
 - Anonymous Electronic Cash and Offline Payments
 - Digital Currency, CBDC, and Stablecoins
 - Selective Tracing and Privacy-Preserving Auditing
