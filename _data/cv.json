@@ -32,38 +32,33 @@
     ]
   },
   "work": [
-    {
-      "name": "Privacy Enhancing Technology Laboratory, Korea University",
-      "position": "Graduate Researcher",
-      "url": "",
-      "startDate": "2024-09",
-      "endDate": "",
-      "summary": "Conducting research at the Privacy Enhancing Technology Laboratory in the Graduate School of Information Security, Korea University.",
-      "highlights": [
-        "Researching privacy-enhancing cryptographic protocols, accountable anonymity, and digital currency security.",
-        "Designed an accountable anonymous offline electronic cash system supporting selective forward and backward coin tracing.",
-        "Studying BBS+ signatures, ElGamal encryption, anonymous credentials, zero-knowledge proofs, accumulators, and revocation mechanisms.",
-        "Conducting formal security analysis and implementation-oriented performance evaluation.",
-        "Investigating privacy-preserving authentication for robots, autonomous agents, and Industrial Internet of Things environments.",
-        "Exploring the protection of visual information collected by Physical AI systems.",
-      ]
-    },
-    {
-      "name": "Information Security Laboratory, Dankook University",
-      "position": "Undergraduate Researcher",
-      "url": "",
-      "startDate": "2021-01",
-      "endDate": "2024-08",
-      "summary": "Conducted research on privacy-preserving video processing, encrypted data management, and applied information security.",
-      "highlights": [
-        "Designed an entity-specific ROI encryption mechanism supporting selective decryption of surveillance videos.",
-        "Developed a post-processing method for protecting facial regions missed by AI-based recognition models.",
-        "Participated in the design of an encryption mechanism supporting efficient updates to encrypted cloud data.",
-        "Implemented cryptographic and privacy-preserving mechanisms and conducted performance experiments.",
-        "Participated in academic conferences, patent development, security competitions, and collaborative research projects."
-      ]
-    }
-  ],
+  {
+    "name": "Privacy Enhancing Technology Laboratory, Korea University",
+    "position": "Graduate Researcher",
+    "url": "",
+    "startDate": "September 2024",
+    "endDate": "",
+    "summary": "",
+    "highlights": [
+      "Conducting research on privacy-enhancing cryptographic protocols, accountable anonymity, and digital currency security.",
+      "Designed an accountable anonymous offline electronic cash system supporting user privacy, transaction unlinkability, and selective forward and backward coin tracing.",
+      "Investigating privacy-preserving authentication and revocation mechanisms for IIoT and autonomous systems."
+    ]
+  },
+  {
+    "name": "Information Security Laboratory, Dankook University",
+    "position": "Undergraduate Researcher",
+    "url": "",
+    "startDate": "January 2021",
+    "endDate": "August 2024",
+    "summary": "",
+    "highlights": [
+      "Conducted research on privacy-preserving video processing and secure management of dynamically updated encrypted data.",
+      "Developed an entity-specific ROI encryption system supporting selective decryption and protection against missed face detection.",
+      "Participated in cryptographic system design, implementation, performance evaluation, academic presentations, and patent development."
+    ]
+  }
+],
   "education": [
   {
     "institution": "Korea University",
