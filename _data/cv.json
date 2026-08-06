@@ -5,7 +5,7 @@
     "email": "chochan0418@korea.ac.kr",
     "phone": "",
     "website": "https://chancebro.github.io",
-    "summary": "Graduate researcher at the Privacy Enhancing Technology Laboratory, Graduate School of Information Security, Korea University. My research focuses on privacy-enhancing technologies, accountable anonymity, anonymous authentication, digital currency security, and privacy for Physical AI. My long-term goal is to develop privacy-preserving security mechanisms that enable safe, private, and accountable coexistence between humans and intelligent machines.",
+    "summary": "Graduate researcher at the Privacy Enhancing Technology Laboratory, Graduate School of Information Security, Korea University. My research focuses on privacy-enhancing technologies, accountable anonymity, anonymous authentication, and digital currency security. I study how cryptographic systems can protect legitimate users and devices during normal operation while enabling narrowly scoped auditing, tracing, or revocation when misuse occurs. My current research spans accountable anonymous offline payments and privacy-preserving authentication for IIoT and autonomous systems. My long-term goal is to build trustworthy infrastructures in which digital financial activities and intelligent systems can operate securely, privately, and accountably.",
     "location": {
       "address": "",
       "postalCode": "",
