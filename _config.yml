@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Chanhyeong Cho"
 title_separator          : "-"
 name                     : &name "Chanhyeong Cho"
-description              : &description "Researcher in Privacy-Enhancing Technologies and Physical AI Security"
+description              : &description "Researcher in Privacy-Enhancing Technologies"
 
 url: "https://chancebro.github.io"
 baseurl: ""
