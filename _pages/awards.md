@@ -6,6 +6,19 @@ author_profile: true
 
 # Awards and Honors
 
+## 2024
+
+### Excellence Award, 10th Cryptanalysis Competition
+
+**777th Command, Republic of Korea Army**  
+October 10, 2024
+
+Received the Excellence Award as a member of the team
+**원형적사고** in the **10th Cryptanalysis Competition (2024)**,
+which was held for the advancement of defense cryptographic technology.
+
+**Team members:** Sujin Park, Seonkyu Kim, Chanhyeong Cho, and Won Kim.
+
 ## 2023
 
 ### Special Award, 2023 National Cryptography Competition
