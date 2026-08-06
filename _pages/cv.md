@@ -54,9 +54,9 @@ CV PDF를 files/Chanhyeong_Cho_CV.pdf에 업로드한 다음
 
 {% for edu in cv.education %}
 
-### {{ edu.institution }}
+### {{ edu.studyType }}{% if edu.area and edu.area != "" %} in {{ edu.area }}{% endif %}
 
-**{{ edu.studyType }}{% if edu.area and edu.area != "" %} in {{ edu.area }}{% endif %}**  
+**{{ edu.institution }}**  
 {{ edu.startDate }} –
 {% if edu.endDate and edu.endDate != "" %}
 {{ edu.endDate }}
@@ -64,20 +64,11 @@ CV PDF를 files/Chanhyeong_Cho_CV.pdf에 업로드한 다음
 Present
 {% endif %}
 
-{% if edu.url and edu.url != "" %}
-[Institution Website]({{ edu.url }})
-{% endif %}
-
-{% if edu.courses.size > 0 %}
-**Selected research areas and coursework**
-
-{% for course in edu.courses %}
-- {{ course }}
-{% endfor %}
+{% if edu.note and edu.note != "" %}
+{{ edu.note }}
 {% endif %}
 
 {% endfor %}
-
 ---
 
 ## Research Experience
