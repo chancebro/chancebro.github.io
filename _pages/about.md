@@ -9,52 +9,101 @@ redirect_from:
 
 # Chanhyeong Cho
 
-I am a graduate student at the Graduate School of Information
-Security, Korea University, and a researcher in the Privacy
-Enhancing Technology Laboratory.
+I am a graduate researcher at the Graduate School of Information
+Security, Korea University, and a member of the Privacy Enhancing
+Technology Laboratory.
 
 My research focuses on privacy-enhancing technologies,
-accountable anonymity, and security and privacy for Physical AI.
+accountable anonymity, and cryptographic protocols for secure
+digital systems.
 
-My long-term goal is to establish technical foundations for
-safe and trustworthy coexistence between humans and intelligent
-machines.
+To date, my main research has centered on digital payments and
+electronic cash. In particular, I have studied how offline payment
+systems can preserve user anonymity and transaction unlinkability
+while still supporting accountability and selective tracing when
+double spending or illicit activity is detected.
+
+Through this research, I aim to contribute to digital payment
+infrastructures that protect the privacy of legitimate users while
+reducing the risk that digital currencies, including future CBDC
+and stablecoin-based systems, are abused for money laundering and
+other financial crimes.
+
+More recently, I have begun extending this research perspective
+to Industrial Internet of Things, robotics, and Physical AI.
+I am interested in how autonomous devices can authenticate one
+another without exposing persistent identities and how sensitive
+visual, audio, biometric, and contextual data perceived by robots
+can be protected.
+
+My long-term goal is to develop privacy-preserving and accountable
+security mechanisms that can support both trustworthy digital
+financial systems and safe human–robot coexistence.
 
 ## Research Interests
 
 - Privacy-Enhancing Technologies
-- Physical AI Privacy and Security
-- Privacy-Preserving Robot Authentication
+- Accountable Anonymity
+- Anonymous Electronic Cash and Offline Payments
+- Digital Currency, CBDC, and Stablecoins
+- Selective Tracing and Privacy-Preserving Auditing
 - Anonymous Credentials and Zero-Knowledge Proofs
-- Accountable Anonymous Digital Payments
-- Digital Currency and Stablecoins
+- Privacy-Preserving Authentication and Revocation
+- IIoT and Physical AI Security
+- Robot and Multimodal Data Privacy
+
+## Current Research
+
+### Accountable Anonymous Digital Payments
+
+I study electronic cash and offline payment protocols that provide
+payer and payee anonymity during normal transactions while
+supporting narrowly scoped tracing under legitimate conditions.
+
+My work investigates how anonymous credentials, zero-knowledge
+proofs, and encrypted tracing mechanisms can be combined to
+preserve privacy without eliminating accountability.
+
+### Privacy-Preserving Auditing and Selective Tracing
+
+Rather than allowing an authority to inspect every user or
+transaction, I am interested in mechanisms that cryptographically
+limit the scope of auditing.
+
+The objective is to trace only the user, transaction, or coin
+associated with confirmed misuse while preserving the privacy of
+unrelated participants.
+
+## Emerging Research Directions
+
+### Privacy-Preserving Authentication for IIoT and Robots
+
+I am investigating how robots and industrial devices can prove
+that they are authorized without repeatedly revealing permanent
+identifiers.
+
+My interests include anonymous credentials, zero-knowledge proofs,
+revocation mechanisms, physically unclonable functions, and
+conditional accountability.
+
+### Privacy for Physical AI
+
+Robots and embodied AI systems continuously process information
+through cameras, microphones, and sensors.
+
+I aim to study methods that protect visual, audio, biometric, and
+contextual information while retaining the environmental
+information necessary for safe operation.
 
 ## Research Vision
 
-Physical AI systems continuously perceive humans through cameras,
-microphones, and various sensors. My research investigates how
-robots can use and share these data without exposing more personal
-information than necessary.
+Across digital payments, IIoT, and Physical AI, my research is
+guided by a common question:
 
-I aim to design systems in which robots can authenticate and
-collaborate without revealing persistent identities, while
-supporting controlled accountability when malicious behavior
-or safety incidents occur.
+> How can a system use sensitive information for legitimate
+> functions without exposing more information than necessary?
 
-## Selected Research Topics
-
-### Privacy-Preserving Multimodal Perception
-
-Protection of sensitive visual, audio, biometric, and contextual
-information collected by robots and embodied AI systems.
-
-### Anonymous Robot Authentication
-
-Anonymous credentials, zero-knowledge proofs, revocation, and
-conditional accountability for secure robot-to-robot communication.
-
-### Accountable Privacy
-
-Cryptographic mechanisms that preserve privacy during normal
-operation while enabling narrowly scoped investigation under
-legitimate conditions.
+I seek to design cryptographic systems that preserve privacy during
+normal operation, enable limited accountability when misuse occurs,
+and prevent authorities or service providers from obtaining
+unrestricted access to personal information.
