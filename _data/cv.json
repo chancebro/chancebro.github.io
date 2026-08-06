@@ -66,49 +66,31 @@
     }
   ],
   "education": [
-    {
-      "institution": "Korea University",
-      "url": "https://www.korea.edu",
-      "area": "Cybersecurity",
-      "studyType": "Incoming Ph.D. Student",
-      "startDate": "2026-09",
-      "endDate": "",
-      "courses": [
-        "Privacy-Enhancing Technologies",
-        "Applied Cryptography",
-        "Anonymous Authentication",
-        "Physical AI Privacy and Security"
-      ]
-    },
-    {
-      "institution": "Korea University",
-      "url": "https://www.korea.edu",
-      "area": "Cybersecurity",
-      "studyType": "M.S.",
-      "startDate": "2024-09",
-      "endDate": "2026-08",
-      "courses": [
-        "Privacy-Enhancing Technologies",
-        "Cryptographic Protocols",
-        "Blockchain Security",
-        "Digital Currency Security"
-      ]
-    },
-    {
-      "institution": "Dankook University",
-      "url": "https://www.dankook.ac.kr",
-      "area": "Industrial Security",
-      "studyType": "B.S.",
-      "startDate": "2020-03",
-      "endDate": "2024-08",
-      "courses": [
-        "Information Security",
-        "Applied Cryptography",
-        "Industrial Security",
-        "Privacy Protection"
-      ]
-    }
-  ],
+  {
+    "institution": "Korea University",
+    "area": "Cybersecurity",
+    "studyType": "Incoming Ph.D. Student",
+    "startDate": "September 2026",
+    "endDate": "",
+    "note": "Privacy Enhancing Technology Laboratory"
+  },
+  {
+    "institution": "Korea University",
+    "area": "Cybersecurity",
+    "studyType": "M.S.",
+    "startDate": "September 2024",
+    "endDate": "August 2026",
+    "note": "Privacy Enhancing Technology Laboratory"
+  },
+  {
+    "institution": "Dankook University",
+    "area": "Industrial Security",
+    "studyType": "B.S.",
+    "startDate": "March 2020",
+    "endDate": "August 2024",
+    "note": ""
+  }
+],
   "skills": [
     {
       "name": "Cryptography",
