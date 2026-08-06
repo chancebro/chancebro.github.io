@@ -1,152 +1,373 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Chanhyeong Cho",
+    "label": "Graduate Researcher in Privacy-Enhancing Technologies",
+    "email": "chochan0418@korea.ac.kr",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://chancebro.github.io",
+    "summary": "Graduate researcher at the Privacy Enhancing Technology Laboratory, Graduate School of Information Security, Korea University. My research focuses on privacy-enhancing technologies, accountable anonymity, anonymous authentication, digital currency security, and privacy for Physical AI. My long-term goal is to develop privacy-preserving security mechanisms that enable safe, private, and accountable coexistence between humans and intelligent machines.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": "Republic of Korea"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "Chanhyeong Cho",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "GitHub",
+        "username": "chancebro",
+        "url": "https://github.com/chancebro"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "Academic Website",
+        "username": "Chanhyeong Cho",
+        "url": "https://chancebro.github.io"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "Privacy Enhancing Technology Laboratory, Korea University",
+      "position": "Graduate Researcher",
+      "url": "",
+      "startDate": "2024-09",
+      "endDate": "",
+      "summary": "Conducting research at the Privacy Enhancing Technology Laboratory in the Graduate School of Information Security, Korea University.",
+      "highlights": [
+        "Researching privacy-enhancing cryptographic protocols, accountable anonymity, and digital currency security.",
+        "Designed an accountable anonymous offline electronic cash system supporting selective forward and backward coin tracing.",
+        "Studying BBS+ signatures, ElGamal encryption, anonymous credentials, zero-knowledge proofs, accumulators, and revocation mechanisms.",
+        "Conducting formal security analysis and implementation-oriented performance evaluation.",
+        "Investigating privacy-preserving authentication for robots, autonomous agents, and Industrial Internet of Things environments.",
+        "Exploring the protection of visual, audio, biometric, location, and contextual information collected by Physical AI systems.",
+        "Studying cryptographically constrained accountability for compromised or malicious autonomous devices."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "name": "Information Security Laboratory, Dankook University",
+      "position": "Undergraduate Researcher",
+      "url": "",
+      "startDate": "2021-01",
+      "endDate": "2024-08",
+      "summary": "Conducted research on privacy-preserving video processing, encrypted data management, and applied information security.",
+      "highlights": [
+        "Designed an entity-specific ROI encryption mechanism supporting selective decryption of surveillance videos.",
+        "Developed a post-processing method for protecting facial regions missed by AI-based recognition models.",
+        "Participated in the design of an encryption mechanism supporting efficient updates to encrypted cloud data.",
+        "Implemented cryptographic and privacy-preserving mechanisms and conducted performance experiments.",
+        "Participated in academic conferences, patent development, security competitions, and collaborative research projects."
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "education": [
+    {
+      "institution": "Korea University",
+      "url": "https://www.korea.edu",
+      "area": "Cybersecurity",
+      "studyType": "Incoming Ph.D. Student",
+      "startDate": "2026-09",
+      "endDate": "",
+      "courses": [
+        "Privacy-Enhancing Technologies",
+        "Applied Cryptography",
+        "Anonymous Authentication",
+        "Physical AI Privacy and Security"
+      ]
+    },
+    {
+      "institution": "Korea University",
+      "url": "https://www.korea.edu",
+      "area": "Cybersecurity",
+      "studyType": "M.S.",
+      "startDate": "2024-09",
+      "endDate": "2026-08",
+      "courses": [
+        "Privacy-Enhancing Technologies",
+        "Cryptographic Protocols",
+        "Blockchain Security",
+        "Digital Currency Security"
+      ]
+    },
+    {
+      "institution": "Dankook University",
+      "url": "https://www.dankook.ac.kr",
+      "area": "Industrial Security",
+      "studyType": "B.S.",
+      "startDate": "2020-03",
+      "endDate": "2024-08",
+      "courses": [
+        "Information Security",
+        "Applied Cryptography",
+        "Industrial Security",
+        "Privacy Protection"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cryptography",
+      "level": "Research",
+      "keywords": [
+        "BBS+ Signatures",
+        "ElGamal Encryption",
+        "Anonymous Credentials",
+        "Zero-Knowledge Proofs",
+        "Sigma Protocols",
+        "Fiat-Shamir Transformation",
+        "Group Signatures",
+        "Bilinear Pairings",
+        "Dynamic Accumulators",
+        "Universal Accumulators",
+        "Commitment Schemes",
+        "Merkle Trees",
+        "Electronic Cash Protocols"
+      ]
+    },
+    {
+      "name": "Privacy and Security",
+      "level": "Research",
+      "keywords": [
+        "Privacy-Enhancing Technologies",
+        "Accountable Anonymity",
+        "Transaction Unlinkability",
+        "Selective Tracing",
+        "Privacy-Preserving Authentication",
+        "Revocation",
+        "Video De-identification",
+        "Selective Encryption",
+        "Threat Modeling",
+        "Game-Based Security Definitions",
+        "AML and CTF Analysis",
+        "Virtual Asset Tracing"
+      ]
+    },
+    {
+      "name": "Physical AI Security",
+      "level": "Research Interest",
+      "keywords": [
+        "Robot Authentication",
+        "Multimodal Data Privacy",
+        "Visual Data Privacy",
+        "Audio Data Privacy",
+        "Biometric Data Protection",
+        "IoT and IIoT Authentication",
+        "Physically Unclonable Functions",
+        "Anonymous Device Authentication",
+        "Accountable Autonomous Systems"
+      ]
+    },
+    {
+      "name": "Programming and Research Tools",
+      "level": "Research and Implementation",
+      "keywords": [
+        "Python",
+        "C++",
+        "MCL Cryptographic Library",
+        "BLS12-381",
+        "SQLite3",
+        "Linux",
+        "Git",
+        "GitHub",
+        "LaTeX",
+        "Jekyll",
+        "Dlib",
+        "AES",
+        "Experimental Benchmarking"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional research and academic communication"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Privacy-Enhancing Technologies",
+      "keywords": [
+        "Anonymous Credentials",
+        "Zero-Knowledge Proofs",
+        "Accountable Anonymity",
+        "Selective Disclosure"
+      ]
+    },
+    {
+      "name": "Physical AI Privacy and Security",
+      "keywords": [
+        "Safe Human-Robot Coexistence",
+        "Robot Authentication",
+        "Multimodal Data Privacy",
+        "Autonomous Agent Accountability"
+      ]
+    },
+    {
+      "name": "Digital Currency Security",
+      "keywords": [
+        "Electronic Cash",
+        "Stablecoins",
+        "CBDCs",
+        "Blockchain",
+        "Virtual Asset Tracing",
+        "AML and CTF"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Practical Privacy-Preserving ROI Encryption System for Surveillance Videos Supporting Selective Decryption",
+      "publisher": "Computer Modeling in Engineering & Sciences, Vol. 141, No. 3",
+      "releaseDate": "2024-10-31",
+      "website": "https://doi.org/10.32604/cmes.2024.053430",
+      "summary": "Chanhyeong Cho, Hyun Min Song, and Taek-Young Youn. This work proposes an entity-specific ROI encryption system that selectively decrypts only the target person in surveillance videos while protecting unrelated individuals. It also introduces post-processing to protect facial regions missed by the recognition model."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "A New Encryption Mechanism Supporting the Update of Encrypted Data for Secure and Efficient Collaboration in the Cloud Environment",
+      "publisher": "Computer Modeling in Engineering & Sciences, Vol. 142, No. 1",
+      "releaseDate": "2024-12-17",
+      "website": "https://doi.org/10.32604/cmes.2024.056952",
+      "summary": "Chanhyeong Cho, Byeori Kim, Haehyun Cho, and Taek-Young Youn. This work proposes a bundled counter-mode encryption mechanism that enables only modified portions of encrypted collaborative data to be updated. The study includes security analysis and experimental evaluation against traditional block cipher modes."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Accountable Anonymous Offline Electronic Cash with Selective Coin Tracing",
+      "publisher": "Manuscript Under Review",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Chanhyeong Cho, Jae Hyun Choi, and Ik Rae Jeong. This work proposes an accountable anonymous offline electronic cash system based on BBS+ signatures and ElGamal encryption. It preserves payer and payee anonymity and transaction unlinkability during normal operation while supporting efficient forward and backward selective coin tracing when illicit activity or double spending is detected."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Global Stablecoin Regulations and South Korea's Legislative Landscape: An Analysis of the Impact of Emerging Blockchain Technologies",
+      "publisher": "KIPS Transactions on Computer and Communication Systems, Accepted",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Chanhyeong Cho et al. This study compares major global stablecoin regulatory frameworks with legislative proposals in South Korea. It examines emerging technologies including cross-chain bridges and AI agents and analyzes their implications for privacy, traceability, jurisdiction, and accountability."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Privacy-Preserving Encryption of Surveillance Videos Supporting Selective Decryption",
+      "event": "MobiSec 2023",
+      "date": "2023-12",
+      "location": "Okinawa, Japan",
+      "description": "Oral presentation by Chanhyeong Cho, Hyun Min Song, and Taek-Young Youn."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "A Block Cipher Mode of Operation Supporting Dynamic Updates in the Cloud",
+      "event": "CISC-W 2023",
+      "date": "2023-11",
+      "location": "Seoul, Republic of Korea",
+      "description": "Oral presentation by Chanhyeong Cho, Byeori Kim, Haehyun Cho, and Taek-Young Youn."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Cryptographic Protocols",
+      "institution": "Korea University",
+      "date": "2026",
+      "role": "Teaching Assistant",
+      "description": "Assisted with course administration, examination preparation, student announcements, grading, and review of cryptographic security definitions and protocol constructions."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Accountable Anonymous Offline Electronic Cash",
+      "category": "Research Project",
+      "date": "2025-2026",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Designed an offline electronic cash protocol providing payer and payee anonymity, transaction unlinkability, and selective forward and backward coin tracing. The protocol uses BBS+ signatures, ElGamal encryption, and zero-knowledge proofs."
+    },
+    {
+      "name": "Privacy-Preserving Surveillance Video Encryption",
+      "category": "Research Project",
+      "date": "2023-2024",
+      "url": "https://doi.org/10.32604/cmes.2024.053430",
+      "description": "Developed an entity-specific ROI encryption system supporting selective decryption and privacy protection for facial regions missed by recognition models."
+    },
+    {
+      "name": "Dynamic Encrypted Data Update Mechanism",
+      "category": "Research Project",
+      "date": "2023-2024",
+      "url": "https://doi.org/10.32604/cmes.2024.056952",
+      "description": "Designed a bundled counter-mode structure that enables efficient modification of encrypted collaborative data without re-encrypting the complete dataset."
+    },
+    {
+      "name": "Privacy-Preserving Authentication and Revocation for IIoT",
+      "category": "Ongoing Research",
+      "date": "2026",
+      "url": "",
+      "description": "Investigating anonymous authentication, revocation, dynamic accumulators, PUF-based key generation, group signatures, and Merkle-tree-based authorization for industrial IoT environments."
+    },
+    {
+      "name": "Privacy and Security for Physical AI",
+      "category": "Future Research Direction",
+      "date": "2026-Present",
+      "url": "",
+      "description": "Developing a research framework for privacy-preserving robot authentication, multimodal sensor data protection, controlled disclosure, and accountable autonomous systems. The long-term goal is safe and trustworthy coexistence between humans and robots."
+    },
+    {
+      "name": "Stablecoin Regulation and Emerging Blockchain Technologies",
+      "category": "Policy and Technical Research",
+      "date": "2025-2026",
+      "url": "",
+      "description": "Analyzed global stablecoin regulations, South Korean legislative proposals, cross-chain infrastructure, AI agents, privacy risks, AML and CTF requirements, and technical accountability."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Special Award, 2023 National Cryptography Competition",
+      "date": "2023-10",
+      "awarder": "Korea Cryptography Forum",
+      "summary": "Received a Special Award in the 2023 National Cryptography Competition."
+    },
+    {
+      "title": "Chairperson's Award, 2022 Side-Channel Information Analysis Competition",
+      "date": "2022-10",
+      "awarder": "Side-Channel Analysis Research Group, Korea Institute of Information Security and Cryptology",
+      "summary": "Received the Chairperson's Award in the undergraduate division for side-channel information analysis."
+    },
+    {
+      "title": "Best Award, 2022 Security Idea Hackathon",
+      "date": "2022-10",
+      "awarder": "Dankook University Startup Support Center",
+      "summary": "Received the Best Award for an innovative information security idea."
+    },
+    {
+      "title": "Bronze Award, Dankook University and Daou Technology Programming Competition",
+      "date": "2022-12",
+      "awarder": "Daou Technology and Dankook University",
+      "summary": "Received the Bronze Award for programming and technical problem-solving performance."
+    },
+    {
+      "title": "Silver Award, Industrial Security Paper Competition and Industry-Academia Cooperation Challenge",
+      "date": "2021-11",
+      "awarder": "Korean Association for Industrial Security",
+      "summary": "Received the Silver Award in the paper division."
+    }
+  ],
+  "patents": [
+    {
+      "name": "Personal Information Rights Management System and Method Based on Consent to Information Collection",
+      "number": "KR Application No. 10-2023-0029248",
+      "date": "2023",
+      "inventors": [
+        "Chanhyeong Cho",
+        "Myeong Hyeon Kim",
+        "Ji Seok Bang",
+        "Jeong Hyun Sim",
+        "Taek-Young Youn"
+      ],
+      "summary": "A personal information rights management system and method based on user consent to information collection."
     }
   ]
 }
