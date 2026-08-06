@@ -198,14 +198,29 @@ Present
 
 ## Research Vision
 
-My long-term research goal is to develop privacy-preserving
-security technologies for Physical AI.
+My research seeks to reconcile privacy, security, and accountability
+across digital financial systems and intelligent autonomous
+environments.
 
-I aim to design systems in which robots and autonomous agents can
-authenticate, collaborate, and process multimodal sensor data
-without unnecessarily exposing persistent identities or sensitive
-human information.
+In digital payments, I study accountable anonymous offline electronic
+cash systems that preserve user anonymity and transaction unlinkability
+during normal operation while supporting selective auditing and tracing
+when double spending, money laundering, or other illicit financial
+activity is confirmed. Through this work, I aim to contribute to
+privacy-preserving payment infrastructures for electronic cash, CBDCs,
+and stablecoin-based systems.
 
-Ultimately, I seek to establish technical foundations for safe,
-private, and accountable coexistence between humans and
-intelligent machines.
+The same fundamental challenge also appears in IIoT and autonomous
+systems. Devices should be able to prove that they are authorized
+without repeatedly revealing persistent identifiers, while compromised
+or malicious devices must still be efficiently revoked or investigated.
+Building on my work in accountable anonymity, I am extending my research
+to privacy-preserving authentication, revocation, and selective data
+protection for IIoT, robots, and Physical AI systems.
+
+My long-term goal is to develop cryptographic mechanisms that allow
+legitimate users and devices to operate without excessive surveillance
+while enabling narrowly scoped and technically enforceable
+accountability when misuse occurs. Through this research, I seek to
+support both safer digital financial systems and trustworthy autonomous
+environments.
